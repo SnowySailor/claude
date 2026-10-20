@@ -2,6 +2,16 @@
 
 A Claude Code status line that shows model, effort, session cost, token usage, context %, prompt cache countdown, and git branch.
 
+## Preview
+
+With a Claude.ai plan, the status line also shows session and weekly usage:
+
+![Plan billing](images/plan-billing.png)
+
+With API billing, it shows the session cost only:
+
+![API billing](images/api-billing.png)
+
 ## Requirements
 
 - [Claude Code](https://code.claude.com)
